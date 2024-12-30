@@ -54,7 +54,7 @@ Here are the additional Python libraries used within this project:
   <li>glob Version "0.5.0"</li>
 </ul>
 
-You will need to download Stackoverflow’s Annual Developer Surveys from 2019 till 2024 and put it in a path of this form:
+You will need to download Stackoverflow’s Annual Developer Surveys from 2019 till 2024 and put them in a path structure of this form:
 
 os.path.join('..', 'data', 'stack-overflow-developer-survey-' + year)
 
