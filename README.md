@@ -12,7 +12,7 @@ Analysing stackoverflow survey results over a time period from 2011 to 2024
 
 ## Project Motivation <a name="motivation"></a>
 
-Writing a data science blog post is one of the projects within the Udacity Data Scientist Nanodegree Program. The StackOverflow Annual Developer Surveys from 2019 till 2024 were chosen as the data basis. This timeframe was optimal for the questions at hand. Older survey results were looked at as well but proved to be too different from later suvreys to be included.
+Writing a data science blog post is one of the projects within the Udacity Data Scientist Nanodegree Program. The StackOverflow Annual Developer Surveys from 2019 till 2024 were chosen as the data basis. This timeframe was optimal for the questions at hand. Older survey results were looked at as well but proved to be too different from later surveys to be included.
 
 ## Data <a name="data"></a>
 The focus of the Stack Overflow survey is to understand significant aspects of jobs in software development.</br>
