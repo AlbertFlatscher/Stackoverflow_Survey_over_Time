@@ -64,7 +64,7 @@ os.path.join('..', 'data', 'stack-overflow-developer-survey-' + year)
 
 The aim of the analysis was to get an overview of the most used programming languages from 2019 till 2024. From this starting point it was tried to find trends and conclusions.
 
-The results can be found on Medium [Blog](https://techdataman.github.io/2024/09/16/blog-post-first.html).
+The results can be found on Medium [Blog](https://medium.com/p/f1930bfe91bc/edit).
 
 ## Licensing <a name="licensing"></a>
 
